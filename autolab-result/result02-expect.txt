@@ -1,0 +1,41 @@
+html id: '', _displayed = 0, _content empty
+  head id: '', _displayed = 0, _content empty
+    title id: '', _displayed = 0, _content = 'Nested Tags'
+  body id: '', _displayed = 0, _content empty
+    div id: 'div1', _displayed = 0, _content empty
+      div id: 'div2', _displayed = 0, _content empty
+        div id: 'div3', _displayed = 0, _content empty
+          div id: 'div4', _displayed = 0, _content empty
+            div id: '', _displayed = 0, _content empty
+        div id: '', _displayed = 0, _content empty
+          div id: '', _displayed = 0, _content empty
+            div id: '', _displayed = 0, _content empty
+              div id: '', _displayed = 0, _content empty
+          div id: '', _displayed = 0, _content empty
+            div id: 'Tag', _displayed = 0, _content empty
+              content id: '', _displayed = 0, _content = 'How many div tags am I in?'
+            div id: '', _displayed = 0, _content empty
+              div id: '', _displayed = 0, _content empty
+                div id: '', _displayed = 0, _content empty
+                  div id: '', _displayed = 0, _content empty
+                    div id: '', _displayed = 0, _content empty
+                div id: '', _displayed = 0, _content empty
+        div id: '', _displayed = 0, _content empty
+          div id: '', _displayed = 0, _content empty
+            div id: '', _displayed = 0, _content empty
+              div id: '', _displayed = 0, _content empty
+                div id: '', _displayed = 0, _content empty
+                  div id: '', _displayed = 0, _content empty
+                    div id: '', _displayed = 0, _content empty
+                      div id: '', _displayed = 0, _content empty
+                        div id: 'tag', _displayed = 0, _content empty
+                          content id: '', _displayed = 0, _content = 'Going in...'
+                          div id: '', _displayed = 0, _content empty
+                            div id: '', _displayed = 0, _content empty
+                              div id: '', _displayed = 0, _content empty
+                                div id: '', _displayed = 0, _content empty
+                                  div id: '', _displayed = 0, _content empty
+                                    div id: '', _displayed = 0, _content empty
+                                      div id: 'div', _displayed = 0, _content empty
+                                        content id: '', _displayed = 0, _content = 'What about me?'
+                          content id: '', _displayed = 0, _content = 'And we're back again.'

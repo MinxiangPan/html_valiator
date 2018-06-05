@@ -1,0 +1,83 @@
+html id: 'AreYouCheckingID', _displayed = 0, _content empty
+  head id: 'AreYouSure', _displayed = 0, _content empty
+    title id: 'AreYouStillSure', _displayed = 0, _content = 'There needs to be text here!'
+  body id: 'Still', _displayed = 0, _content empty
+    p id: 'NotEmpty', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'Still going'
+    p id: 'CertainlyNotEmpty', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'That might be all of them'
+    br id: 'ButWaitTheresMore', _displayed = 0, _content empty
+    br id: 'BushDidAFour', _displayed = 0, _content empty
+    br id: 'lol', _displayed = 0, _content empty
+    br id: 'ez', _displayed = 0, _content empty
+    p id: 'id', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'Don't search. What happens if your ID is invalid?'
+    content id: '', _displayed = 0, _content = 'We can have text here'
+    p id: '', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'In here too'
+    content id: '', _displayed = 0, _content = 'We can have text here X'
+    p id: '', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'This is allowed'
+    content id: '', _displayed = 0, _content = 'X X'
+    div id: '', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'This is allowed'
+    content id: '', _displayed = 0, _content = 'X X'
+    span id: '', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'So is this'
+    content id: '', _displayed = 0, _content = 'X X'
+    br id: 'SoIsThis', _displayed = 0, _content empty
+    content id: '', _displayed = 0, _content = 'X Why would this be here. Seriously. Here we go... X'
+    div id: '', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'a'
+      div id: '', _displayed = 0, _content empty
+        content id: '', _displayed = 0, _content = 'this is allowed'
+      content id: '', _displayed = 0, _content = 'a'
+    content id: '', _displayed = 0, _content = 'X X'
+    div id: '', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'a'
+      div id: '', _displayed = 0, _content empty
+        content id: '', _displayed = 0, _content = 'a'
+        p id: '', _displayed = 0, _content empty
+          content id: '', _displayed = 0, _content = 'so is this'
+        content id: '', _displayed = 0, _content = 'a'
+      content id: '', _displayed = 0, _content = 'a'
+    content id: '', _displayed = 0, _content = 'X X'
+    div id: '', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'a'
+      div id: '', _displayed = 0, _content empty
+        content id: '', _displayed = 0, _content = 'a'
+        p id: '', _displayed = 0, _content empty
+          content id: '', _displayed = 0, _content = 'this is ok'
+          br id: 'AndThis', _displayed = 0, _content empty
+          content id: '', _displayed = 0, _content = 'is ok'
+        content id: '', _displayed = 0, _content = 'a'
+      content id: '', _displayed = 0, _content = 'a'
+    content id: '', _displayed = 0, _content = 'X X'
+    div id: '', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'a'
+      div id: '', _displayed = 0, _content empty
+        content id: '', _displayed = 0, _content = 'a'
+        p id: '', _displayed = 0, _content empty
+          span id: '', _displayed = 0, _content empty
+            content id: '', _displayed = 0, _content = 'this is ok'
+          content id: '', _displayed = 0, _content = 'ez'
+          br id: 'wow', _displayed = 0, _content empty
+          content id: '', _displayed = 0, _content = 'ez'
+          span id: '', _displayed = 0, _content empty
+            content id: '', _displayed = 0, _content = 'this is ok'
+        content id: '', _displayed = 0, _content = 'a'
+      content id: '', _displayed = 0, _content = 'a'
+    content id: '', _displayed = 0, _content = 'X X'
+    p id: '', _displayed = 0, _content empty
+      br id: 'absolutely', _displayed = 0, _content empty
+      span id: '', _displayed = 0, _content empty
+        content id: '', _displayed = 0, _content = 'Not nested in BR, child of p.'
+    content id: '', _displayed = 0, _content = 'X Empty things...'
+    br id: '', _displayed = 0, _content empty
+    br id: '', _displayed = 0, _content empty
+    br id: '', _displayed = 0, _content empty
+    br id: '', _displayed = 0, _content empty
+    div id: '', _displayed = 0, _content empty
+    p id: '', _displayed = 0, _content empty
+    span id: '', _displayed = 0, _content empty
+    content id: '', _displayed = 0, _content = 'Did you make it?'

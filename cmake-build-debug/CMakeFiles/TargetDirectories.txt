@@ -1,0 +1,3 @@
+C:/LocalFiles/a4-handout/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/LocalFiles/a4-handout/cmake-build-debug/CMakeFiles/A4.dir
+C:/LocalFiles/a4-handout/cmake-build-debug/CMakeFiles/rebuild_cache.dir

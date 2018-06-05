@@ -1,0 +1,33 @@
+html id: '', _displayed = 0, _content empty
+  head id: '', _displayed = 0, _content empty
+    title id: '', _displayed = 0, _content = 'A lovely title'
+  body id: '', _displayed = 0, _content empty
+    p id: '', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'This is'
+      br id: '', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'ok.'
+    div id: '', _displayed = 0, _content empty
+      br id: '', _displayed = 0, _content empty
+      content id: '', _displayed = 0, _content = 'We don't need text before a line break.'
+      p id: '', _displayed = 0, _content empty
+        br id: '', _displayed = 0, _content empty
+        span id: '', _displayed = 0, _content empty
+          content id: '', _displayed = 0, _content = 'Span text.'
+        content id: '', _displayed = 0, _content = 'Floating text'
+      div id: '', _displayed = 0, _content empty
+        div id: '', _displayed = 0, _content empty
+          content id: '', _displayed = 0, _content = 'Some'
+          p id: '', _displayed = 0, _content empty
+            content id: '', _displayed = 0, _content = 'nested'
+          content id: '', _displayed = 0, _content = 'text.'
+          span id: 'Tag', _displayed = 0, _content empty
+            content id: '', _displayed = 0, _content = 'span is ok here'
+          p id: '', _displayed = 0, _content empty
+            span id: '', _displayed = 0, _content empty
+              content id: '', _displayed = 0, _content = 'And here as well.'
+        content id: '', _displayed = 0, _content = 'And some outer text.'
+      p id: '', _displayed = 0, _content empty
+        content id: '', _displayed = 0, _content = 'Why not'
+        span id: 'anotherone', _displayed = 0, _content empty
+          content id: '', _displayed = 0, _content = 'have a span'
+        content id: '', _displayed = 0, _content = 'here?'
